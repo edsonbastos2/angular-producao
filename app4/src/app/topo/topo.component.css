@@ -1,0 +1,57 @@
+.navbar{
+    width: 100%;
+    background: #fff;
+}
+.menu {
+    background: #006ACB
+}
+
+.nav-link {
+    color: #C1E4FF
+}
+
+.nav-link:hover{
+    color: #FFF
+}
+
+.logo{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.banner {
+    margin-top: 126px;
+}
+
+.banner img {
+    width: 100%;
+    height: 230px;
+}
+
+.active {
+    color: #FFF;
+    font-weight: bolder;
+}
+
+.fixo{
+    top: 0;
+    left: 0;
+}
+
+.formulario{
+    width: 100%;
+    display: block;
+    border: 1px solid #000;
+
+}
+
+.car{
+    float:right;
+    display: block;
+}
+
+.teste{
+    width: 990px;
+    height: 78px;
+}
